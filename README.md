@@ -21,7 +21,7 @@
 |------|------|
 | Git & GitHub Full Course | [Watch Here](https://www.youtube.com/watch?v=RGOj5yH7evk) |
 | Git for Beginners | [Watch Here](https://www.youtube.com/watch?v=8JJ101D3knE) |
-| Git & GitHub Crash Course | [Watch Here](https://www.youtube.com/watch?v=SWYqp7iY_Tc) |
+
 
 ### 🔹 **Online Courses**  
 | Course | Platform | Link |
