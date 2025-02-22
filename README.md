@@ -28,6 +28,6 @@
 |--------|----------|------|
 | Version Control with Git | Coursera | [Enroll Here](https://www.coursera.org/learn/version-control-with-git) |
 | GitHub Foundations | LinkedIn Learning | [Enroll Here](https://www.linkedin.com/learning/github-fundamentals) |
-| Git Complete Course | Udemy | [Enroll Here](https://www.udemy.com/course/git-and-github-bootcamp/) |
+
 
 
